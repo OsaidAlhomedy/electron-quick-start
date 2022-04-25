@@ -1,0 +1,23 @@
+{
+  "name": "electron-quick-start",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start" : "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/OsaidAlhomedy/electron-quick-start.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/OsaidAlhomedy/electron-quick-start/issues"
+  },
+  "homepage": "https://github.com/OsaidAlhomedy/electron-quick-start#readme",
+  "dependencies": {
+    "electron": "^18.1.0"
+  }
+}
